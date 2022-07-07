@@ -15,3 +15,5 @@ Contents summary:
   - [3-graph_description_technology2.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/3-graph_description_technology2.ipynb)
 
 - [4-topology_analysis](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/4-topology_analysis): visualization of graph topology dynamics and centrality ranking dynamics of "core" countries
+  - [centrality_ranking_visual](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/4-topology_analysis/centrality_ranking_visual): visualization of centrality ranking dynamics
+  - [topology_dynamics_visual](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/4-topology_analysis/topology_dynamics_visual): graph topology statistics dynamics visualization
