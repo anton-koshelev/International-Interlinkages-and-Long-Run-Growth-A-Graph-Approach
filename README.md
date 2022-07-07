@@ -10,9 +10,9 @@ Contents summary:
     - [technology1.csv](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/graph_descriptions/technology1.csv)
     - [technology2.csv](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/graph_descriptions/technology2.csv)
     - [trade.csv](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/graph_descriptions/trade.csv)
-  - [1-graph_description_trade.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/1-graph_description_trade.ipynb)
-  - [2-graph_description_technology1.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/2-graph_description_technology1.ipynb)
-  - [3-graph_description_technology2.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/3-graph_description_technology2.ipynb)
+  - [1-graph_description_trade.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/1-graph_description_trade.ipynb): code
+  - [2-graph_description_technology1.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/2-graph_description_technology1.ipynb): code
+  - [3-graph_description_technology2.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/3-graph_description/3-graph_description_technology2.ipynb): code
 
 - [4-topology_analysis](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/4-topology_analysis): visualization of graph topology dynamics and centrality ranking dynamics of "core" countries
   - [centrality_ranking_visual](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/4-topology_analysis/centrality_ranking_visual): visualization of centrality ranking dynamics
@@ -23,6 +23,6 @@ Contents summary:
     - [technology1.pdf](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/topology_dynamics_visual/technology1.pdf)
     - [technology2.pdf](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/topology_dynamics_visual/technology2.pdf)
     - [trade.pdf](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/topology_dynamics_visual/trade.pdf) 
-  - [1_topology_analysis_trade.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/1_topology_analysis_trade.ipynb)
-  - [2_topology_analysis_technology1.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/2_topology_analysis_technology1.ipynb)
-  - [3_topology_analysis_technology2.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/3_topology_analysis_technology2.ipynb)
+  - [1_topology_analysis_trade.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/1_topology_analysis_trade.ipynb): code
+  - [2_topology_analysis_technology1.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/2_topology_analysis_technology1.ipynb): code
+  - [3_topology_analysis_technology2.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/3_topology_analysis_technology2.ipynb): code
