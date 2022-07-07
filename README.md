@@ -6,13 +6,9 @@ Contents summary:
 - [2-centralities_computation](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/2-centralities_computation): code for measurement of node centralities based on [pre-computed graphs](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction)
 
 - [3-graph_description](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/3-graph_description): calculation of network topology statistics based on [pre-computed graphs](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction)
+  * [graph_descriptions](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/3-graph_description/graph_descriptions)
+    * technology1.csv
+    * technology2.csv
+    * trade.csv 
 
 - [4-topology_analysis](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/4-topology_analysis): visualization of graph topology dynamics and centrality ranking dynamics of "core" countries
-
-
-File structure:
-
-* [1-graph_construction](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction)
-* [2-centralities_computation](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/2-centralities_computation)
-* [3-graph_description](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/3-graph_description)
-* [4-topology_analysis](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/4-topology_analysis)
