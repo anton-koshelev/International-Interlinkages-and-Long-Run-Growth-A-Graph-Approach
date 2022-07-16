@@ -33,3 +33,11 @@ Contents summary:
   - [1_topology_analysis_trade.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/1_topology_analysis_trade.ipynb): code
   - [2_topology_analysis_technology1.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/2_topology_analysis_technology1.ipynb): code
   - [3_topology_analysis_technology2.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/4-topology_analysis/3_topology_analysis_technology2.ipynb): code
+
+
+- [5-centrality_correlations](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/5-centrality_correlations): code for the calculation of correlation coefficients between network centralities (technology 1&2 and trade) and output.
+  - [data](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/5-centrality_correlations/data): additional dataset with macroeconomic data
+  - [1-centrality_correlations.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/5-centrality_correlations/1-centrality_correlations.ipynb)
+  - [2-centrality_ranks_correlations.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/5-centrality_correlations/2-centrality_ranks_correlations.ipynb)
+  - [3-centrality_output_correlations_all_countries.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/5-centrality_correlations/3-centrality_output_correlations_all_countries.ipynb)
+  - [4-centrality_output_correlations_OECD.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/5-centrality_correlations/4-centrality_output_correlations_OECD.ipynb)
