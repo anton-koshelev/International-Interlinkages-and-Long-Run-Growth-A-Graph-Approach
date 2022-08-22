@@ -49,3 +49,5 @@ Contents summary:
 - [6-hypothesis_testing](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/6-hypothesis_testing): code for the OLS regressions.
   - [1-OLS-trade.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/6-hypothesis_testing/1-OLS-trade.ipynb): technology graph centrality and trade graph centrality
   - [2-OLS-GDPpc.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/6-hypothesis_testing/2-OLS-GDPpc.ipynb): technology graph centrality and GDP per capita growth
+
+![centrality comparison](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/2-centralities_computation/centrality_comparison2.pdf)
