@@ -3,7 +3,7 @@
 
 <img width="1427" alt="Screenshot 2022-08-22 at 21 25 38" src="https://user-images.githubusercontent.com/77440257/186002508-23660d91-5787-45d9-986e-5cb35da08d28.png">
 
-Contents summary:
+__Contents summary:__
 - [1-graph_construction](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction): code for raw data pre-processing and construction of directed weighted graphs (trade, technology ver. 1 and technology ver. 2)
   - [data](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction/data): data used in the research
     - [preprocessed](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction/data/preprocessed): preprocessed data (aggregated tables and graphs)
