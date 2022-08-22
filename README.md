@@ -1,5 +1,8 @@
 # International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach
 
+
+<img width="1427" alt="Screenshot 2022-08-22 at 21 25 38" src="https://user-images.githubusercontent.com/77440257/186002508-23660d91-5787-45d9-986e-5cb35da08d28.png">
+
 Contents summary:
 - [1-graph_construction](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction): code for raw data pre-processing and construction of directed weighted graphs (trade, technology ver. 1 and technology ver. 2) -- to be updated 
 
@@ -49,5 +52,3 @@ Contents summary:
 - [6-hypothesis_testing](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/6-hypothesis_testing): code for the OLS regressions.
   - [1-OLS-trade.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/6-hypothesis_testing/1-OLS-trade.ipynb): technology graph centrality and trade graph centrality
   - [2-OLS-GDPpc.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/6-hypothesis_testing/2-OLS-GDPpc.ipynb): technology graph centrality and GDP per capita growth
-
-<img width="1427" alt="Screenshot 2022-08-22 at 21 25 38" src="https://user-images.githubusercontent.com/77440257/186002508-23660d91-5787-45d9-986e-5cb35da08d28.png">
