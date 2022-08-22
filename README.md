@@ -11,7 +11,7 @@ Contents summary:
     - [trade_raw.zip](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/1-graph_construction/data/trade_raw.zip): raw export data
   - [1-aggregate_trade_data.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/1-graph_construction/1-aggregate_trade_data.ipynb): code
   - [2-trade_graph_construction.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/1-graph_construction/2-trade_graph_construction.ipynb): code
-  - [3-technology_graph_construction_solution1.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/1-graph_construction/3-technology_graph_construction_solution1.ipynb)
+  - [3-technology_graph_construction_solution1.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/1-graph_construction/3-technology_graph_construction_solution1.ipynb): code
   - [4-technology_graph_construction_solution2.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/1-graph_construction/4-technology_graph_construction_solution2.ipynb): code
 
 - [2-centralities_computation](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/2-centralities_computation): code for measurement of node centralities based on [pre-computed graphs](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction)
