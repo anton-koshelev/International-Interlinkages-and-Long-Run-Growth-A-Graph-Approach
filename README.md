@@ -4,7 +4,11 @@
 <img width="1427" alt="Screenshot 2022-08-22 at 21 25 38" src="https://user-images.githubusercontent.com/77440257/186002508-23660d91-5787-45d9-986e-5cb35da08d28.png">
 
 Contents summary:
-- [1-graph_construction](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction): code for raw data pre-processing and construction of directed weighted graphs (trade, technology ver. 1 and technology ver. 2) -- to be updated 
+- [1-graph_construction](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction): code for raw data pre-processing and construction of directed weighted graphs (trade, technology ver. 1 and technology ver. 2)
+  - [data](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction/data): data used in the research
+    - [preprocessed](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction/data/preprocessed): preprocessed data (aggregated tables and graphs)
+    - [technology_raw](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction/data/technology_raw): original patent citation data set can be found via the [following link](https://www.nber.org/research/data/us-patents) (NBER)
+    - [trade_raw.zip](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/1-graph_construction/data/trade_raw.zip): raw export data
 
 - [2-centralities_computation](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/2-centralities_computation): code for measurement of node centralities based on [pre-computed graphs](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/1-graph_construction)
   - [computed_centralities](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/tree/main/2-centralities_computation/computed_centralities): .csv files with precomputed node centralities (trade, technology1, technology2)
