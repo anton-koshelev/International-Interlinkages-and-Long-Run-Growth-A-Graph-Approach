@@ -50,4 +50,5 @@ Contents summary:
   - [1-OLS-trade.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/6-hypothesis_testing/1-OLS-trade.ipynb): technology graph centrality and trade graph centrality
   - [2-OLS-GDPpc.ipynb](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/blob/main/6-hypothesis_testing/2-OLS-GDPpc.ipynb): technology graph centrality and GDP per capita growth
 
-![centrality comparison](2-centralities_computation/centrality_comparison2.pdf)
+
+[centrality_comparison_rank2.pdf](https://github.com/anton-koshelev/International-Interlinkages-and-Long-Run-Growth-A-Graph-Approach/files/9397035/centrality_comparison_rank2.pdf)
